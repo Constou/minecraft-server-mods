@@ -1,0 +1,26 @@
+{
+  "simpledifficulty:ice_chestplate": {
+    "temperature": -2.0
+  },
+  "simpledifficulty:ice_helmet": {
+    "temperature": -2.0
+  },
+  "simpledifficulty:wool_helmet": {
+    "temperature": 2.0
+  },
+  "simpledifficulty:ice_boots": {
+    "temperature": -2.0
+  },
+  "simpledifficulty:wool_boots": {
+    "temperature": 2.0
+  },
+  "simpledifficulty:wool_leggings": {
+    "temperature": 2.0
+  },
+  "simpledifficulty:wool_chestplate": {
+    "temperature": 2.0
+  },
+  "simpledifficulty:ice_leggings": {
+    "temperature": -2.0
+  }
+}

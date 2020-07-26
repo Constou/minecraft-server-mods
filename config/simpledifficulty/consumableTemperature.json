@@ -1,0 +1,24 @@
+{
+  "minecraft:mushroom_stew": [
+    {
+      "metadata": -1,
+      "group": "food",
+      "temperature": 1.0,
+      "duration": 1200
+    }
+  ],
+  "simpledifficulty:juice": [
+    {
+      "metadata": 2,
+      "group": "drink",
+      "temperature": 1.0,
+      "duration": 1200
+    },
+    {
+      "metadata": 4,
+      "group": "drink",
+      "temperature": 1.0,
+      "duration": 2400
+    }
+  ]
+}

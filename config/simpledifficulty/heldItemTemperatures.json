@@ -1,0 +1,52 @@
+{
+  "tconstruct:firewood_stairs": [
+    {
+      "metadata": 0,
+      "temperature": 2.0
+    }
+  ],
+  "tconstruct:stone_torch": [
+    {
+      "metadata": 0,
+      "temperature": 1.0
+    }
+  ],
+  "tconstruct:firewood_slab": [
+    {
+      "metadata": 0,
+      "temperature": 2.0
+    },
+    {
+      "metadata": 1,
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:magma": [
+    {
+      "metadata": -1,
+      "temperature": 3.0
+    }
+  ],
+  "tconstruct:firewood": [
+    {
+      "metadata": 0,
+      "temperature": 2.0
+    },
+    {
+      "metadata": 1,
+      "temperature": 2.0
+    }
+  ],
+  "minecraft:torch": [
+    {
+      "metadata": -1,
+      "temperature": 1.0
+    }
+  ],
+  "tconstruct:lavawood_stairs": [
+    {
+      "metadata": 0,
+      "temperature": 2.0
+    }
+  ]
+}

@@ -1,0 +1,322 @@
+{
+  "harvestcraft:cherryslushieitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:chocolatemilkshakeitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:hotchocolateitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:eggnogitem": [
+    {
+      "metadata": -1,
+      "amount": 15,
+      "saturation": 12.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:raspberryicedteaitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:espressoitem": [
+    {
+      "metadata": -1,
+      "amount": 12,
+      "saturation": 9.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:pinacoladaitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:dandelionteaitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:strawberrymilkshakeitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:weekendpicnicitem": [
+    {
+      "metadata": -1,
+      "amount": 20,
+      "saturation": 20.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "minecraft:milk_bucket": [
+    {
+      "metadata": -1,
+      "amount": 4,
+      "saturation": 1.0,
+      "thirstyChance": 0.2
+    }
+  ],
+  "harvestcraft:pumpkinspicelatteitem": [
+    {
+      "metadata": -1,
+      "amount": 20,
+      "saturation": 19.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:gooseberrymilkshakeitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:coconutmilkitem": [
+    {
+      "metadata": -1,
+      "amount": 3,
+      "saturation": 3.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:bubbleteaitem": [
+    {
+      "metadata": -1,
+      "amount": 12,
+      "saturation": 9.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:chaiteaitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:teaitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:lemonaideitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:bbqplatteritem": [
+    {
+      "metadata": -1,
+      "amount": 20,
+      "saturation": 20.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:cookiesandmilkitem": [
+    {
+      "metadata": -1,
+      "amount": 8,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:greenteaitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:raspberrymilkshakeitem": [
+    {
+      "metadata": -1,
+      "amount": 15,
+      "saturation": 12.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:hotcocoaitem": [
+    {
+      "metadata": -1,
+      "amount": 15,
+      "saturation": 12.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:friedfeastitem": [
+    {
+      "metadata": -1,
+      "amount": 20,
+      "saturation": 20.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:lycheeteaitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:chocolatemilkitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:applecideritem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:coffeeitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:rootbeerfloatitem": [
+    {
+      "metadata": -1,
+      "amount": 18,
+      "saturation": 15.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:soymilkitem": [
+    {
+      "metadata": -1,
+      "amount": 3,
+      "saturation": 3.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:bananamilkshakeitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:energydrinkitem": [
+    {
+      "metadata": -1,
+      "amount": 15,
+      "saturation": 12.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:durianmilkshakeitem": [
+    {
+      "metadata": -1,
+      "amount": 9,
+      "saturation": 7.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:rosepetalteaitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:fruitpunchitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:earlgreyteaitem": [
+    {
+      "metadata": -1,
+      "amount": 6,
+      "saturation": 5.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:theatreboxitem": [
+    {
+      "metadata": -1,
+      "amount": 16,
+      "saturation": 15.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:sundayhighteaitem": [
+    {
+      "metadata": -1,
+      "amount": 12,
+      "saturation": 10.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:coffeeconlecheitem": [
+    {
+      "metadata": -1,
+      "amount": 18,
+      "saturation": 15.0,
+      "thirstyChance": 0.0
+    }
+  ],
+  "harvestcraft:delightedmealitem": [
+    {
+      "metadata": -1,
+      "amount": 14,
+      "saturation": 13.0,
+      "thirstyChance": 0.0
+    }
+  ]
+}
